@@ -1,0 +1,288 @@
+[
+  {
+    "id": 1,
+    "categoria": "Documentos",
+    "titulo": "Criar a conta gov.br",
+    "palavras_chave": [
+      "conta gov",
+      "gov br",
+      "govbr",
+      "login unico"
+    ],
+    "resposta": "A conta gov.br é o login para vários serviços do governo, como a Carteira de Trabalho Digital. Você cria pelo aplicativo gov.br ou pelo site, usando o seu CPF.",
+    "documentos": [
+      "CPF",
+      "Celular ou e-mail para receber o código de confirmação"
+    ],
+    "onde": "Aplicativo gov.br ou site www.gov.br",
+    "fonte": "https://www.gov.br/governodigital",
+    "verificado_em": "2026-11-16"
+  },
+  {
+    "id": 2,
+    "categoria": "Documentos",
+    "titulo": "Tirar o CPF (Cadastro de Pessoas Físicas)",
+    "palavras_chave": [
+      "cpf",
+      "tirar cpf",
+      "tiro o cpf",
+      "fazer cpf",
+      "inscricao no cpf",
+      "tirar o cpf",
+      "fazer o cpf"
+    ],
+    "resposta": "A inscrição no CPF é gratuita pelo site da Receita Federal (serviço Inscrever no CPF, no gov.br). Em cartórios, Correios, Banco do Brasil e Caixa existe uma taxa de atendimento, então confira o valor antes de ir.",
+    "documentos": [
+      "Documento oficial de identificação (como RG ou certidão de nascimento)"
+    ],
+    "onde": "Site ou aplicativo da Receita Federal, ou agência parceira",
+    "fonte": "https://www.gov.br/receitafederal",
+    "verificado_em": "2026-11-16"
+  },
+  {
+    "id": 3,
+    "categoria": "Documentos",
+    "titulo": "Emitir a carteira de identidade (RG / CIN)",
+    "palavras_chave": [
+      "rg",
+      "carteira de identidade",
+      "identidade",
+      "cin",
+      "nova identidade",
+      "segunda via do rg"
+    ],
+    "resposta": "A nova carteira de identidade (CIN) está substituindo o RG e usa o CPF como número. A primeira via é gratuita e o atendimento é presencial, com agendamento. Em São Paulo, agende pelo site ou aplicativo do Poupatempo.",
+    "documentos": [
+      "Documento original com o número do CPF",
+      "Certidão de nascimento ou de casamento"
+    ],
+    "onde": "Poupatempo (em São Paulo) ou órgão de identificação do seu estado, com agendamento",
+    "fonte": "https://www.poupatempo.sp.gov.br",
+    "verificado_em": "2026-11-16"
+  },
+  {
+    "id": 4,
+    "categoria": "Trabalho",
+    "titulo": "Acessar a Carteira de Trabalho Digital",
+    "palavras_chave": [
+      "carteira de trabalho",
+      "ctps",
+      "carteira digital",
+      "carteira de trabalho digital"
+    ],
+    "resposta": "A Carteira de Trabalho agora é digital. Você acessa pelo aplicativo Carteira de Trabalho Digital ou pelo site, entrando com a sua conta gov.br. O número do documento é o seu CPF.",
+    "documentos": [
+      "CPF",
+      "Conta gov.br"
+    ],
+    "onde": "Aplicativo Carteira de Trabalho Digital ou portal gov.br",
+    "fonte": "https://www.gov.br/trabalho-e-emprego",
+    "verificado_em": "2026-11-16"
+  },
+  {
+    "id": 5,
+    "categoria": "Trabalho",
+    "titulo": "Primeiro emprego: direitos e contrato registrado em carteira (CLT)",
+    "palavras_chave": [
+      "primeiro emprego",
+      "carteira assinada",
+      "clt",
+      "direitos trabalhistas",
+      "registro em carteira"
+    ],
+    "resposta": "No emprego formal (CLT), a empresa deve registrar o contrato na sua Carteira de Trabalho. Com o registro você tem direitos como salário, férias, 13º salário e FGTS.",
+    "documentos": [
+      "Carteira de Trabalho Digital",
+      "CPF",
+      "Documento com foto"
+    ],
+    "onde": "Empresa que está contratando; dúvidas no Ministério do Trabalho e Emprego",
+    "fonte": "https://www.gov.br/trabalho-e-emprego",
+    "verificado_em": "2026-11-16"
+  },
+  {
+    "id": 6,
+    "categoria": "Trabalho",
+    "titulo": "Jovem Aprendiz: trabalho com curso de formação",
+    "palavras_chave": [
+      "jovem aprendiz",
+      "aprendiz",
+      "menor aprendiz",
+      "contrato de aprendizagem"
+    ],
+    "resposta": "O contrato de aprendizagem é para jovens de 14 até 24 anos incompletos e une trabalho com curso de formação profissional. Quem ainda não terminou o ensino médio precisa estar matriculado e frequentando a escola. O contrato dura no máximo 2 anos; para pessoas com deficiência, não há esse limite.",
+    "documentos": [
+      "CPF",
+      "Documento com foto",
+      "Comprovante de matrícula ou de conclusão do ensino médio",
+      "Carteira de Trabalho Digital"
+    ],
+    "onde": "Empresas que contratam aprendizes e entidades de formação profissional",
+    "fonte": "https://www.gov.br/trabalho-e-emprego",
+    "verificado_em": "2026-11-16"
+  },
+  {
+    "id": 7,
+    "categoria": "Trabalho",
+    "titulo": "Estágio: regras básicas para estudantes",
+    "palavras_chave": [
+      "estagio",
+      "estagiario",
+      "vaga de estagio",
+      "termo de compromisso",
+      "lei do estagio"
+    ],
+    "resposta": "O estágio é para quem está matriculado em um curso. É preciso ter um termo de compromisso assinado pelo estudante, pela empresa e pela instituição de ensino. No ensino superior, a jornada máxima é de 6 horas por dia e 30 horas por semana.",
+    "documentos": [
+      "Comprovante de matrícula",
+      "Documento com foto",
+      "CPF"
+    ],
+    "onde": "Setor de estágios da instituição de ensino e empresa que oferece a vaga",
+    "fonte": "https://www.gov.br/trabalho-e-emprego",
+    "verificado_em": "2026-11-16"
+  },
+  {
+    "id": 8,
+    "categoria": "Trabalho",
+    "titulo": "Procurar vaga de emprego pelo Sine",
+    "palavras_chave": [
+      "sine",
+      "vaga de emprego",
+      "buscar emprego",
+      "procurar emprego",
+      "oportunidade de trabalho"
+    ],
+    "resposta": "O Sine ajuda a encontrar vagas e a conversar com empresas que estão contratando. Você consulta as vagas no Portal Emprega Brasil, no aplicativo Carteira de Trabalho Digital (com a conta gov.br) ou em um posto da rede Sine.",
+    "documentos": [
+      "CPF",
+      "Documento com foto",
+      "Carteira de Trabalho Digital"
+    ],
+    "onde": "Portal Emprega Brasil, aplicativo Carteira de Trabalho Digital ou posto da rede Sine",
+    "fonte": "https://www.gov.br/pt-br/servicos/buscar-emprego-no-sistema-nacional-de-emprego-sine",
+    "verificado_em": "2026-11-16"
+  },
+  {
+    "id": 9,
+    "categoria": "Cidadania",
+    "titulo": "Tirar o título de eleitor",
+    "palavras_chave": [
+      "titulo de eleitor",
+      "titulo eleitoral",
+      "e titulo",
+      "tirar titulo",
+      "alistamento eleitoral",
+      "votar"
+    ],
+    "resposta": "O voto é opcional para quem tem 16 ou 17 anos e obrigatório a partir dos 18. O título pode ser pedido pelo serviço Título Net, do TSE, ou em um cartório eleitoral.",
+    "documentos": [
+      "Documento oficial com foto",
+      "Comprovante de residência",
+      "Para homens, quando for exigido: comprovante de quitação com o serviço militar"
+    ],
+    "onde": "Site do TSE (Título Net) ou cartório eleitoral",
+    "fonte": "https://www.tse.jus.br",
+    "verificado_em": "2026-11-16"
+  },
+  {
+    "id": 10,
+    "categoria": "Cidadania",
+    "titulo": "Fazer o alistamento militar",
+    "palavras_chave": [
+      "alistamento militar",
+      "servico militar",
+      "alistar",
+      "reservista",
+      "certificado de alistamento",
+      "alistamento"
+    ],
+    "resposta": "O alistamento é obrigatório para homens e deve ser feito de 1º de janeiro a 30 de junho do ano em que completam 18 anos. Pode ser feito online, com conta gov.br, ou em uma Junta de Serviço Militar. Quem perdeu o prazo deve procurar uma Junta para regularizar.",
+    "documentos": [
+      "Documento de identificação com foto",
+      "CPF",
+      "Conta gov.br (para o alistamento online)"
+    ],
+    "onde": "Serviço online de alistamento ou Junta de Serviço Militar da sua cidade",
+    "fonte": "https://www.gov.br/pt-br/servicos/alistar-se-no-servico-militar-obrigatorio",
+    "verificado_em": "2026-11-16"
+  },
+  {
+    "id": 11,
+    "categoria": "Dinheiro e Segurança",
+    "titulo": "Conta-salário e portabilidade do salário",
+    "palavras_chave": [
+      "conta salario",
+      "receber salario",
+      "portabilidade de salario",
+      "portabilidade do salario"
+    ],
+    "resposta": "A conta-salário é aberta pela empresa só para receber o salário e não cobra tarifa de manutenção. Você pode pedir a portabilidade, de graça, no banco onde quer passar a receber o salário.",
+    "documentos": [
+      "CPF",
+      "Documento com foto",
+      "Dados da conta de destino"
+    ],
+    "onde": "Banco de destino (aplicativo, site ou agência); a conta-salário é aberta pela empresa",
+    "fonte": "https://www.bcb.gov.br",
+    "verificado_em": "2026-11-16"
+  },
+  {
+    "id": 12,
+    "categoria": "Dinheiro e Segurança",
+    "titulo": "Consultar o FGTS",
+    "palavras_chave": [
+      "fgts",
+      "fundo de garantia",
+      "saldo do fgts",
+      "app fgts"
+    ],
+    "resposta": "O FGTS é um dinheiro que a empresa deposita todo mês em uma conta em seu nome. Você consulta o saldo e os depósitos no aplicativo FGTS, da Caixa.",
+    "documentos": [
+      "CPF"
+    ],
+    "onde": "Aplicativo FGTS ou agência da Caixa",
+    "fonte": "https://www.caixa.gov.br",
+    "verificado_em": "2026-11-16"
+  },
+  {
+    "id": 13,
+    "categoria": "Dinheiro e Segurança",
+    "titulo": "Golpe de falsa vaga de emprego: o que fazer",
+    "palavras_chave": [
+      "golpe",
+      "falsa vaga",
+      "vaga falsa",
+      "pagar para trabalhar",
+      "vaga suspeita"
+    ],
+    "resposta": "Desconfie de vaga que pede pagamento antecipado, depósito ou senhas e dados de cartão. Se cair em um golpe, guarde prints e comprovantes e registre um boletim de ocorrência.",
+    "documentos": [
+      "Prints das conversas",
+      "Comprovantes de pagamento",
+      "Documento com foto"
+    ],
+    "onde": "Delegacia Eletrônica da Polícia Civil ou delegacia mais próxima",
+    "fonte": "https://www.delegaciaeletronica.policiacivil.sp.gov.br",
+    "verificado_em": "2026-11-16"
+  },
+  {
+    "id": 14,
+    "categoria": "Saúde",
+    "titulo": "Fazer o Cartão Nacional de Saúde (Cartão SUS)",
+    "palavras_chave": [
+      "cartao sus",
+      "cartao do sus",
+      "sus",
+      "cns"
+    ],
+    "resposta": "Pode ser feito em uma UBS ou no aplicativo Meu SUS Digital.",
+    "documentos": [
+      "Documento com foto",
+      "CPF"
+    ],
+    "onde": "Qualquer UBS ou aplicativo Meu SUS Digital",
+    "fonte": "https://www.gov.br/saude",
+    "verificado_em": "2026-11-16"
+  }
+]
